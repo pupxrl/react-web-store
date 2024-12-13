@@ -1,0 +1,36 @@
+#header-container {
+  background-color: #343a40;
+  padding: 10px 20px;
+}
+
+#header-logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#header-nav {
+  margin-left: auto;
+}
+
+#header-nav-link {
+  color: #ffffff !important;
+  margin-right: 15px;
+  font-size: 16px;
+}
+
+#header-nav-link:hover {
+  color: #adb5bd !important;
+}
+
+#header-user-welcome {
+  color: #ffffff;
+}
+
+#header-logout {
+  color: #ffffff;
+}
+
+#header-login-register {
+  color: #ffffff;
+}
